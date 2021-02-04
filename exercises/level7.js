@@ -3,3 +3,13 @@
 // times as the input number
 //
 // Name the function "finalFunction"
+const finalFunction = (num) => {
+    var emptyArr = [];
+    for (var i = 0; i < num; i++){
+        emptyArr.push('string');
+    }
+    return emptyArr;
+}
+
+
+
